@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "img": "table.jpg",
+    "name": "Rustic table",
+    "description": [
+      "Tubular pedestal.",
+      "Cover of special shape.",
+      "Leveling screws."
+    ],
+    "cost": 4000,
+    "android_model": "coffe_table.glb",
+    "ios_model": "coffe_table.glb"
+  },
+  {
+    "id": 2,
+    "img": "furniture.png",
+    "name": "TV shelf",
+    "description": [
+      "Furniture ready to assemble.",
+      "Includes assembly instructions.",
+      "Does not include television."
+    ],
+    "cost": 8000,
+    "android_model": "wall_storage_large.glb",
+    "ios_model": "wall_storage_large.glb"
+  },
+  {
+    "id": 3,
+    "img": "armchair.png",
+    "name": "Armchair",
+    "description": ["Minimalist sofa.", "Wide seats.", "Loose cushions."],
+    "cost": 3000,
+    "android_model": "sofa_bed.glb",
+    "ios_model": "sofa_bed.glb"
+  },
+  {
+    "id": 4,
+    "img": "armchair.png",
+    "name": "Armchair",
+    "description": ["Minimalist sofa.", "Wide seats.", "Loose cushions."],
+    "cost": 3000,
+    "android_model": "living_room_chair.glb",
+    "ios_model": "living_room_chair.glb"
+  },
+  {
+    "id": 5,
+    "img": "furniture.png",
+    "name": "Furniture",
+    "description": ["Minimalist sofa.", "Wide seats.", "Loose cushions."],
+    "cost": 3000,
+    "android_model": "single_seater_chair.glb",
+    "ios_model": "single_seater_chair.glb"
+  }
+]
